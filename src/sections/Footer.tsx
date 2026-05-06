@@ -26,7 +26,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="text-muted text-sm">
-          &copy; 2024 Jack. Built with React &amp; Three.js
+          &copy; 2026 Malik. Built with React &amp; Three.js
         </p>
       </div>
     </footer>
